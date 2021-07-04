@@ -42,6 +42,12 @@ Solveq is built using the following Python packages:
   
 ## Screenshots
   
-  ![Login Screen](https://github.com/click4abhishek/Solveq/blob/master/Screenshots/1.png)
-  ![Main Screen](https://github.com/click4abhishek/Solveq/blob/master/Screenshots/2.png)
+  ![Login Screen](https://github.com/rishabh-rustogi/Solveq/blob/main/Screenshots/1.png)
+  ![Main Screen](https://github.com/rishabh-rustogi/Solveq/blob/main/Screenshots/2.png)
   
+## Contributors
+
+- Rishabh Rustogi
+- Abhishek Agarwal
+- Ayush Prasad 
+
