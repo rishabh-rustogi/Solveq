@@ -1,0 +1,5 @@
+username, admin
+password, password
+mathpix_app_id, xxx
+mathpix_app_key, xxx
+wolf_app_id, xxx
