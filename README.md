@@ -2,7 +2,7 @@
 
 ## Description
 
-**Solveq** stands for Solve Equations. This is a OCR and TTS based mathematics equation solver.
+**Solveq** stands for Solve Equations. This is a OCR and Speech-to-Text based mathematics equation solver.
  Making algebra easier by automating equation solving, Solveq also plots the equations and their solutions. 
  It can take input in three forms:
  
@@ -36,7 +36,7 @@ Solveq is built using the following Python packages:
   - Open CV
 - Data Handling
   - Beautiful Soup
-- Text-To-Speech
+- Speech-to-Text
   - SpeechRecognition
   - GTTS
   
